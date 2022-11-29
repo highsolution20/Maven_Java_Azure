@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<title>Some relevant title</title>
+<title>Welcome to Azure Session</title>
 </head>
 <body>
-	<h2>We are migrating Java WebApp from from GitHub into Azure Cloud by building Azure pipeline!</h2>
+
+<h1>This is Azure Lab Session</h1>
+<p>Glad i am able to do some deployment from Git to Azure services.</p>
 
 </body>
 </html>
