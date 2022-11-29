@@ -7,7 +7,7 @@
 
 <h1>This is Azure Lab Session</h1>
 <p>Glad i am able to do some deployment from Git to Azure services.</p>
-<button>ClickMe</Button>
+<button>background-color: #4CAF50; /* Green */</Button>
 
 </body>
 </html>
